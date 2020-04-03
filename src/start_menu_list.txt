@@ -1,0 +1,34 @@
+ListBegin
+        Side
+            down
+        ButtonBegin
+            Position
+                -0.15 0.2
+            Color
+                1 0 0
+            HightColor
+                0 1 0
+            Name
+                start_game
+        ButtonEnd
+        ButtonBegin
+            Position
+                -0.15 0.1
+            Color
+                1 0 0
+            HightColor
+                0 1 0
+            Name
+                about
+        ButtonEnd
+        ButtonBegin
+            Position
+                -0.15 0
+            Color
+                1 0 0
+            HightColor
+                0 1 0
+            Name
+                exit
+        ButtonEnd
+ListEnd
