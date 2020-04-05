@@ -18,9 +18,9 @@ SOURCES += \
     ./src/platform_cl.cpp
 
 DISTFILES += \
-    ./src/game_menu_list.txt \
-    ./src/help_menu_list.txt \
-    ./src/start_menu_list.txt
+    ./cfg/game_menu_list.txt \
+    ./cfg/help_menu_list.txt \
+    ./cfg/start_menu_list.txt
 
 HEADERS += \
     ./src/ball_cl.h \
